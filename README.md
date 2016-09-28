@@ -76,5 +76,6 @@ These are the priorities for me right now. If you want anything else feel free t
  	- [ ] Create pre-authorization
 	
 
+## License
 
-
+The erlang mangopay lib is released under the [MIT License](http://www.opensource.org/licenses/MIT).
