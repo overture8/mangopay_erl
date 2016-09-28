@@ -53,9 +53,6 @@ These are the priorities for me right now. If you want anything else feel free t
 - [ ] Users
   - [ ] Create natural user
   - [ ] Update natural user
-  - [ ] Create legal user
-  - [ ] Update legal user
-  - [ ] View user
   - [x] List users
 - [ ] Wallets
   - [ ] Create wallet
