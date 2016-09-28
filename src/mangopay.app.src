@@ -1,0 +1,16 @@
+{application, mangopay,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { mangopay_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, [mangopay]},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
